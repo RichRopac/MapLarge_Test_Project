@@ -1,0 +1,233 @@
+﻿/* General body styling */
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #f0f0f5; /* A soft, neutral background color */
+}
+
+/* Container styling */
+.container {
+    width: 80%;
+    max-width: 800px;
+    background-color: #ffffff; /* A light, professional card background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 1px solid #dcdcdc;
+    position: relative; /* Allow positioning of elements inside */
+}
+
+/* Main page styling */
+#initialPage {
+    text-align: center; /* Center-align the title on the main page */
+}
+
+    #initialPage h1 {
+        font-size: 2em;
+        margin-bottom: 20px;
+        color: #2c3e50; /* A dark, professional text color */
+        font-weight: 400;
+    }
+
+    #initialPage button {
+        padding: 10px 24px;
+        font-size: 1em;
+        cursor: pointer;
+        border: 1px solid #b0b0b0; /* A neutral border color */
+        border-radius: 6px;
+        margin: 8px;
+        color: #ffffff; /* Text color */
+        background-color: #4CAF50; /* Button background color */
+        transition: background-color 0.2s ease, box-shadow 0.2s ease;
+        font-weight: 500;
+    }
+
+    #initialPage .exit-button {
+        background-color: #f44336; /* A softer red for the exit button */
+        border-color: #f44336;
+    }
+
+/* File browser page styling */
+#fileBrowser h1 {
+    font-size: 1.8em;
+    margin-bottom: 20px;
+    color: #2c3e50; /* A dark, professional text color */
+    font-weight: 400;
+    text-align: left; /* Align title to the left */
+}
+
+#fileBrowser button {
+    padding: 8px 20px;
+    font-size: 0.85em;
+    cursor: pointer;
+    border: 1px solid #b0b0b0; /* A neutral border color */
+    border-radius: 4px;
+    margin: 8px;
+    color: #ffffff; /* Text color */
+    background-color: #4CAF50; /* Button background color */
+    transition: background-color 0.2s ease, box-shadow 0.2s ease;
+    font-weight: 500;
+}
+
+#fileBrowser .exit-button {
+    background-color: #f44336; /* A softer red for the exit button */
+    border-color: #f44336;
+}
+
+/* Ensure the fileBrowser buttons retain their styles */
+
+#fileBrowser .delete-button img,
+#fileBrowser .download-button img,
+#fileBrowser .move-button img,
+#fileBrowser .copy-button img,
+#fileBrowser .rename-button img {
+    width: 16px; /* Adjust size as needed */
+    height: 16px;
+}
+
+#fileBrowser .delete-button,
+#fileBrowser .download-button,
+#fileBrowser .move-button,
+#fileBrowser .copy-button,
+#fileBrowser .rename-button {
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0 8px;
+    cursor: pointer;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#fileBrowser .delete-button {
+    color: red;
+}
+
+#fileBrowser .download-button {
+    color: green;
+}
+
+#fileBrowser .move-button {
+    color: blue; 
+}
+
+#fileBrowser .copy-button {
+    color: purple; 
+}
+
+#fileBrowser .rename-button {
+    color: orange; 
+}
+
+    /* Remove any default button focus outline */
+    #fileBrowser .delete-button:focus,
+    #fileBrowser .download-button:focus,
+    #fileBrowser .move-button:focus,
+    #fileBrowser .copy-button:focus,
+    #fileBrowser .rename-button:focus {
+        outline: none;
+    }
+
+    /* Hover effect */
+    #fileBrowser .delete-button:hover,
+    #fileBrowser .download-button:hover,
+    #fileBrowser .move-button:hover,
+    #fileBrowser .copy-button:hover,
+    #fileBrowser .rename-button:hover {
+        opacity: 0.8;
+    }
+
+
+.search-container {
+    position: absolute;
+    top: 20px;
+    right: 20px; /* Position it to the right corner */
+}
+
+.search-input {
+    padding: 6px;
+    font-size: 0.8em;
+    border: 1px solid #dcdcdc;
+    border-radius: 4px;
+}
+
+#searchButton {
+    padding: 6px 12px;
+    font-size: 0.8em;
+    cursor: pointer;
+    border: 1px solid #b0b0b0;
+    border-radius: 4px;
+    margin-left: 8px;
+    color: #ffffff;
+    background-color: #4CAF50;
+}
+
+    #searchButton:hover {
+        background-color: #45a049;
+    }
+
+/* File browser table styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #dcdcdc;
+}
+
+th, td {
+    padding: 8px;
+    text-align: center; /* Center text in all table cells by default */
+    vertical-align: middle; /* Center vertically */
+}
+
+th {
+    background-color: #f0f0f5; /* A light, subtle background for table headers */
+}
+
+.directory {
+    font-weight: bold;
+    cursor: pointer;
+    color: #4CAF50; /* Button color tone for directory links */
+    text-align: left; /* Ensure directory names are left-aligned */
+}
+
+.breadcrumbs {
+    font-size: 14px;
+    color: #4CAF50;
+    margin-bottom: 10px;
+    word-wrap: break-word;
+}
+
+    .breadcrumbs a {
+        color: #4CAF50;
+        text-decoration: none;
+        cursor: pointer;
+        margin-right: 5px;
+    }
+
+        .breadcrumbs a:hover {
+            text-decoration: underline;
+        }
+
+    .breadcrumbs span {
+        margin-right: 5px;
+    }
+
+/* Specific styling to ensure the name column is left-aligned */
+#output td:first-child {
+    text-align: left;
+}
+
+/* Specific styling to ensure the name column is left-aligned */
+#output td:first-child {
+    text-align: left;
+}
+

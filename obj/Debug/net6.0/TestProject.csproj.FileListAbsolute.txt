@@ -1,0 +1,52 @@
+C:\Users\rcrop\Downloads\TestProject_2024\TestProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rcrop\Downloads\TestProject_2024\TestProject\bin\Debug\net6.0\appsettings.json
+C:\Users\rcrop\Downloads\TestProject_2024\TestProject\bin\Debug\net6.0\TestProject.staticwebassets.runtime.json
+C:\Users\rcrop\Downloads\TestProject_2024\TestProject\bin\Debug\net6.0\TestProject.exe
+C:\Users\rcrop\Downloads\TestProject_2024\TestProject\bin\Debug\net6.0\TestProject.deps.json
+C:\Users\rcrop\Downloads\TestProject_2024\TestProject\bin\Debug\net6.0\TestProject.runtimeconfig.json
+C:\Users\rcrop\Downloads\TestProject_2024\TestProject\bin\Debug\net6.0\TestProject.dll
+C:\Users\rcrop\Downloads\TestProject_2024\TestProject\bin\Debug\net6.0\TestProject.pdb
+C:\Users\rcrop\Downloads\TestProject_2024\TestProject\obj\Debug\net6.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rcrop\Downloads\TestProject_2024\TestProject\obj\Debug\net6.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\rcrop\Downloads\TestProject_2024\TestProject\obj\Debug\net6.0\TestProject.AssemblyInfo.cs
+C:\Users\rcrop\Downloads\TestProject_2024\TestProject\obj\Debug\net6.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\rcrop\Downloads\TestProject_2024\TestProject\obj\Debug\net6.0\TestProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rcrop\Downloads\TestProject_2024\TestProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rcrop\Downloads\TestProject_2024\TestProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rcrop\Downloads\TestProject_2024\TestProject\obj\Debug\net6.0\staticwebassets\msbuild.TestProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rcrop\Downloads\TestProject_2024\TestProject\obj\Debug\net6.0\staticwebassets\msbuild.build.TestProject.props
+C:\Users\rcrop\Downloads\TestProject_2024\TestProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TestProject.props
+C:\Users\rcrop\Downloads\TestProject_2024\TestProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TestProject.props
+C:\Users\rcrop\Downloads\TestProject_2024\TestProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rcrop\Downloads\TestProject_2024\TestProject\obj\Debug\net6.0\scopedcss\bundle\TestProject.styles.css
+C:\Users\rcrop\Downloads\TestProject_2024\TestProject\obj\Debug\net6.0\TestProject.dll
+C:\Users\rcrop\Downloads\TestProject_2024\TestProject\obj\Debug\net6.0\refint\TestProject.dll
+C:\Users\rcrop\Downloads\TestProject_2024\TestProject\obj\Debug\net6.0\TestProject.pdb
+C:\Users\rcrop\Downloads\TestProject_2024\TestProject\obj\Debug\net6.0\TestProject.genruntimeconfig.cache
+C:\Users\rcrop\Downloads\TestProject_2024\TestProject\obj\Debug\net6.0\ref\TestProject.dll
+C:\Users\rcrop\OneDrive\Documents\Projects\Visual Studio\TestProject_2024\TestProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rcrop\OneDrive\Documents\Projects\Visual Studio\TestProject_2024\TestProject\bin\Debug\net6.0\appsettings.json
+C:\Users\rcrop\OneDrive\Documents\Projects\Visual Studio\TestProject_2024\TestProject\bin\Debug\net6.0\TestProject.staticwebassets.runtime.json
+C:\Users\rcrop\OneDrive\Documents\Projects\Visual Studio\TestProject_2024\TestProject\bin\Debug\net6.0\TestProject.exe
+C:\Users\rcrop\OneDrive\Documents\Projects\Visual Studio\TestProject_2024\TestProject\bin\Debug\net6.0\TestProject.deps.json
+C:\Users\rcrop\OneDrive\Documents\Projects\Visual Studio\TestProject_2024\TestProject\bin\Debug\net6.0\TestProject.runtimeconfig.json
+C:\Users\rcrop\OneDrive\Documents\Projects\Visual Studio\TestProject_2024\TestProject\bin\Debug\net6.0\TestProject.dll
+C:\Users\rcrop\OneDrive\Documents\Projects\Visual Studio\TestProject_2024\TestProject\bin\Debug\net6.0\TestProject.pdb
+C:\Users\rcrop\OneDrive\Documents\Projects\Visual Studio\TestProject_2024\TestProject\obj\Debug\net6.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rcrop\OneDrive\Documents\Projects\Visual Studio\TestProject_2024\TestProject\obj\Debug\net6.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\rcrop\OneDrive\Documents\Projects\Visual Studio\TestProject_2024\TestProject\obj\Debug\net6.0\TestProject.AssemblyInfo.cs
+C:\Users\rcrop\OneDrive\Documents\Projects\Visual Studio\TestProject_2024\TestProject\obj\Debug\net6.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\rcrop\OneDrive\Documents\Projects\Visual Studio\TestProject_2024\TestProject\obj\Debug\net6.0\TestProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rcrop\OneDrive\Documents\Projects\Visual Studio\TestProject_2024\TestProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rcrop\OneDrive\Documents\Projects\Visual Studio\TestProject_2024\TestProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rcrop\OneDrive\Documents\Projects\Visual Studio\TestProject_2024\TestProject\obj\Debug\net6.0\staticwebassets\msbuild.TestProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rcrop\OneDrive\Documents\Projects\Visual Studio\TestProject_2024\TestProject\obj\Debug\net6.0\staticwebassets\msbuild.build.TestProject.props
+C:\Users\rcrop\OneDrive\Documents\Projects\Visual Studio\TestProject_2024\TestProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TestProject.props
+C:\Users\rcrop\OneDrive\Documents\Projects\Visual Studio\TestProject_2024\TestProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TestProject.props
+C:\Users\rcrop\OneDrive\Documents\Projects\Visual Studio\TestProject_2024\TestProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rcrop\OneDrive\Documents\Projects\Visual Studio\TestProject_2024\TestProject\obj\Debug\net6.0\scopedcss\bundle\TestProject.styles.css
+C:\Users\rcrop\OneDrive\Documents\Projects\Visual Studio\TestProject_2024\TestProject\obj\Debug\net6.0\TestProject.dll
+C:\Users\rcrop\OneDrive\Documents\Projects\Visual Studio\TestProject_2024\TestProject\obj\Debug\net6.0\refint\TestProject.dll
+C:\Users\rcrop\OneDrive\Documents\Projects\Visual Studio\TestProject_2024\TestProject\obj\Debug\net6.0\TestProject.pdb
+C:\Users\rcrop\OneDrive\Documents\Projects\Visual Studio\TestProject_2024\TestProject\obj\Debug\net6.0\TestProject.genruntimeconfig.cache
+C:\Users\rcrop\OneDrive\Documents\Projects\Visual Studio\TestProject_2024\TestProject\obj\Debug\net6.0\ref\TestProject.dll

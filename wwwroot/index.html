@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Server File Explorer</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Initial Page -->
+        <div id="initialPage">
+            <h1 style="text-align: center;">Server File Explorer</h1>
+            <button onclick="launchFileBrowser()">Launch</button>
+            <button class="exit-button" onclick="exitApplication()">Exit</button>
+        </div>
+
+        <!-- File Browser Page (Initially hidden) -->
+        <div id="fileBrowser" style="display: none;">
+            <h1>File Browser</h1>
+
+            <!-- Search container -->
+            <div class="search-container">
+                <input type="text" id="searchInput" placeholder="Search for files or directories" class="search-input">
+                <button id="searchButton">Search</button>
+            </div>
+
+            <button id="browseButton">Browse</button>
+            <button id="uploadButton">Upload</button>
+            <button id="exitButton" onclick="goBackToMainPage()">Close</button>
+
+            
+            <!-- Hidden file input for upload -->
+            <input type="file" id="fileInput" style="display: none;">
+
+
+            <div class="breadcrumbs" id="breadcrumbs"></div>
+
+            <table id="fileTable">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Type</th>
+                        <th>Size</th>
+                        <th colspan="5">Actions</th>
+                    </tr>
+                </thead>
+                <tbody id="output">
+                    <!-- Content will be dynamically added here -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="js/scripts.js"></script>
+</body>
+</html>
